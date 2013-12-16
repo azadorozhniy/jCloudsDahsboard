@@ -1,0 +1,6 @@
+*.iml
+*.svn
+*.class
+/target
+.git
+/idea

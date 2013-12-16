@@ -1,0 +1,132 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jCloudsDashboard:war exploded">
+    <output-path>$PROJECT_DIR$/target/jclouds-dashboard-1.0</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jCloudsDashboard/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jCloudsDashboard" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.10.2" />
+          <element id="library" level="project" name="Maven: com.typesafe.akka:akka-actor_2.10:2.2.3" />
+          <element id="library" level="project" name="Maven: com.typesafe:config:1.0.2" />
+          <element id="library" level="project" name="Maven: com.typesafe.akka:akka-slf4j_2.10.0-RC1:2.1.0-RC1" />
+          <element id="library" level="project" name="Maven: com.typesafe.akka:akka-actor_2.10.0-RC1:2.1.0-RC1" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.2" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.0.13" />
+          <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.0.13" />
+          <element id="library" level="project" name="Maven: org.clapper:grizzled-slf4j_2.10:1.0.1" />
+          <element id="library" level="project" name="Maven: io.spray:spray-servlet:1.2.0" />
+          <element id="library" level="project" name="Maven: io.spray:spray-http:1.2.0" />
+          <element id="library" level="project" name="Maven: io.spray:spray-util:1.2.0" />
+          <element id="library" level="project" name="Maven: org.parboiled:parboiled-scala_2.10:1.1.6" />
+          <element id="library" level="project" name="Maven: org.parboiled:parboiled-core:1.1.6" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-server:9.1.0.RC2" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-http:9.1.0.RC2" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-util:9.1.0.RC2" />
+          <element id="library" level="project" name="Maven: org.eclipse.jetty:jetty-io:9.1.0.RC2" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-all:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:rackspace-cloudidentity:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:openstack-keystone:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-core:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: javax.ws.rs:jsr311-api:1.1.1" />
+          <element id="library" level="project" name="Maven: com.google.inject.extensions:guice-assistedinject:3.0" />
+          <element id="library" level="project" name="Maven: com.google.inject:guice:3.0" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.99soft.guice:rocoto:6.2" />
+          <element id="library" level="project" name="Maven: javax.annotation:jsr250-api:1.0" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.2.2" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:14.0.1" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:openstack-cinder:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:rackspace-clouddns:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:aws-cloudwatch:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:cloudwatch:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:sts:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:rackspace-cloudblockstorage-us:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:rackspace-cloudblockstorage-uk:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:rackspace-clouddns-us:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:rackspace-clouddns-uk:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:aws-sqs:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:sqs:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:aws-sts:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:aws-route53:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:route53:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:ultradns-ws:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:dynect:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-allloadbalancer:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:rackspace-cloudloadbalancers-uk:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-loadbalancer:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-compute:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-scriptbuilder:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:rackspace-cloudloadbalancers:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:rackspace-cloudloadbalancers-us:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-allcompute:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:greenhousedata-element-vcloud:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:vcloud:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: com.jamesmurty.utils:java-xmlbuilder:0.4" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:aws-ec2:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:ec2:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:openstack-nova:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:openstack-nova-ec2:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:byon:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.11" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:cloudservers-us:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.common:openstack-common:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:cloudservers:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:cloudservers-uk:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:cloudsigma:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:trmk-vcloudexpress:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.common:trmk-common:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:trmk-ecloud:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:bluelock-vcloud-zone01:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:gogrid:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:elasticstack:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:elastichosts-lon-p:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:elastichosts-sat-p:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:elastichosts-lon-b:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:openhosting-east1:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:serverlove-z1-man:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:skalicloud-sdg-my:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:cloudsigma-zrh:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:cloudsigma-lvs:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:go2cloud-jhb1:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:softlayer:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:cloudstack:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:ninefold-compute:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:hpcloud-compute:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:rackspace-cloudservers-us:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:rackspace-cloudservers-uk:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-allblobstore:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:s3:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds:jclouds-blobstore:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:aws-s3:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:ninefold-storage:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:atmos:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:cloudonestorage:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:azureblob:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.common:azure-common:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:swift:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:cloudfiles:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:cloudfiles-us:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:cloudfiles-uk:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.api:filesystem:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: org.apache.jclouds.provider:hpcloud-objectstorage:1.6.2-incubating" />
+          <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:2.0.0" />
+          <element id="library" level="project" name="Maven: org.jclouds.driver:jclouds-log4j:1.6.0" />
+          <element id="library" level="project" name="Maven: org.jclouds:jclouds-core:1.6.0" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: org.json4s:json4s-native_2.10:3.2.6" />
+          <element id="library" level="project" name="Maven: org.json4s:json4s-core_2.10:3.2.6" />
+          <element id="library" level="project" name="Maven: org.json4s:json4s-ast_2.10:3.2.6" />
+          <element id="library" level="project" name="Maven: com.thoughtworks.paranamer:paranamer:2.6" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scalap:2.10.0" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-compiler:2.10.0" />
+          <element id="library" level="project" name="Maven: org.scala-lang:scala-reflect:2.10.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
