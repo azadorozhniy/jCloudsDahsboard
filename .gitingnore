@@ -1,6 +1,8 @@
 *.iml
 *.svn
 *.class
-/target
-.git
-/idea
+target
+.idea
+.iws
+workspace.xml
+tasks.xml
